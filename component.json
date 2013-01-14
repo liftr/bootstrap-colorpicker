@@ -1,0 +1,8 @@
+{
+  "name": "bootstrap-colorpicker",
+  "version": "0.1.0",
+  "main": ["./js/bootstrap-colorpicker.js"]
+  "dependencies": {
+  	"bootstrap": ">= 2.0.0"
+  }
+}
