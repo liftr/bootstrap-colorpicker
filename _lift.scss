@@ -1,0 +1,6 @@
+@import "liftr/bootstrap";
+@import "bootstrap-colorpicker";
+
+@include load-js("bootstrap-colorpicker", "bootstrap-colorpicker/js/bootstrap-colorpicker");
+
+@include lifted("bootstrap-colorpicker");
